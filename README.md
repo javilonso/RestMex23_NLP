@@ -5,7 +5,8 @@ https://sites.google.com/cimat.mx/rest-mex2023
 
 ### Papers
 
-Soon available...
+https://ceur-ws.org/Vol-3496/restmex-paper2.pdf
+https://ceur-ws.org/Vol-3496/restmex-paper12.pdf
 
 ### Sentiment analysis task
 **Sentiment analysis** task in tourist texts has gained relevance in the last decade; however, the most significant scientific communication efforts have focused on the English language. Although some studies have focused on Spanish, few address Spanish who is not from Spain. These approaches are typically applied to collections taken from social networks such as tweets, so tourist texts have not been directly addressed. For this task, 250,000 reviews are provided.
